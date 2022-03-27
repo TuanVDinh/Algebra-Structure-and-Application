@@ -1,1 +1,1 @@
-# Algebra-Structure-and-Application
+Algebraic-Structures-and-Applications
